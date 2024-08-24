@@ -47,3 +47,9 @@ Note that, by default, `zig build dist` will build everything in debug mode and 
 - [COM in plain C](https://www.codeproject.com/Articles/13601/COM-in-plain-C) to learn about how to work with COM from C
 - [The Complete Idiot's Guide to Writing Shell Extensions](https://www.codeproject.com/Articles/445/The-Complete-Idiots-Guide-to-Writing-Shell-Exten-2) and [apriorit/IconOverlayHandler](https://github.com/apriorit/IconOverlayHandler) for an example of how custom icon overlays/context menu entries can be added (with C++)
 - [marlersoft/zigwin32](https://github.com/marlersoft/zigwin32) and [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev) for examples of how to create bindings for COM interfaces from Zig
+- 
+```py
+import pandas as pd
+
+features = pd.Dataframe(file)
+```
