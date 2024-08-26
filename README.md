@@ -5,7 +5,7 @@ A Windows shell extension to mark files with a 'watched' icon, and a utility pro
 
 ![](https://www.ryanliptak.com/misc/watchedoverlay-screenshot.png)
 
-*Note: This is mostly to scratch my own itch, and to learn a bit about using COM from Zig. I have no real plans for this becoming anything more generally useful.*
+*Note: This is mostly to scratch my own itch, and to learn a bit about using COM from Zig. I have no real plans for this becoming anything more generally useful.* 
 
 ## Installation
 
