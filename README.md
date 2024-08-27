@@ -1,4 +1,4 @@
-watchedoverlay
+watchedoverlay 
 ==============
 
 A Windows shell extension to mark files with a 'watched' icon, and a utility program to automatically mark things as watched by polling the recently played list of [VLC media player](https://www.videolan.org/vlc/). 
