@@ -3,7 +3,7 @@ watchedoverlay
 
 A Windows shell extension to mark files with a 'watched' icon, and a utility program to automatically mark things as watched by polling the recently played list of [VLC media player](https://www.videolan.org/vlc/). 
 
-![](https://www.ryanliptak.com/misc/watchedoverlay-screenshot.png)
+![](https://www.ryanliptak.com/misc/watchedoverlay-screenshot.png) 
 
 *Note: This is mostly to scratch my own itch, and to learn a bit about using COM from Zig. I have no real plans for this becoming anything more generally useful.* 
 
