@@ -21,7 +21,7 @@ A Windows shell extension to mark files with a 'watched' icon, and a utility pro
 3. Restart `explorer.exe`, or log out/log back in, or restart your computer
 4. Overwrite your existing version's files with the new version's files
 5. Run the `install.bat` as Administrator (right click -> Run as administrator)
-6. Restart `explorer.exe`, or log out/log back in, or restart your computer
+6. Restart `explorer.exe`, or log out/log back in, or restart your computer 
 
 ## Building
 
