@@ -7,7 +7,7 @@ A Windows shell extension to mark files with a 'watched' icon, and a utility pro
 
 *Note: This is mostly to scratch my own itch, and to learn a bit about using COM from Zig. I have no real plans for this becoming anything more generally useful.* 
 
-## Installation  
+## Installation    
 
 1. Download the file from Releases 
 2. Unzip to wherever you'd like
