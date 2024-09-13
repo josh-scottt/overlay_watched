@@ -9,7 +9,7 @@ A Windows shell extension to mark files with a 'watched' icon, and a utility pro
 
 ## Installation    
 
-1. Download the file from Releases    
+1. Download the file from Releases   
 2. Unzip to wherever you'd like
 3. Run the `install.bat` as Administrator (right click -> Run as administrator) 
 4. Restart `explorer.exe`, or log out/log back in, or restart your computer   
